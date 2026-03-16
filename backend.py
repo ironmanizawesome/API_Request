@@ -14,7 +14,7 @@ params = {
             "numOfRows" : 10,
             "dataType" : "JSON",
 
-            "base_date": "20260219",
+            "base_date": "20260316",
             "base_time": "1900",
             "nx": 63,
             "ny": 89,
